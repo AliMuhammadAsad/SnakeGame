@@ -1,5 +1,5 @@
 import pygame; pygame.init()
-import random; import math
+import random; import math;
 
 #Display Screen Initialize
 screen_width = 900; screen_height = 600
