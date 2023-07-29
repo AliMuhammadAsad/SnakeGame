@@ -19,6 +19,15 @@ Just simply extract all the files in a folder, navigate to the directory and run
 <br/>
 Also I'm confused how to create a .exe file as pyinstaller does not work for me due to other modules that I can't delete... so if anyone can help me with the .exe file, that would be awesome.
 
+#### Home Screen
+<img src="home.png" width="50%"/>
+
+### Game Play:
+<video controls>
+    <source src="gameplay.mp4" type="video/mp4">
+    Your browser does not support the video tag
+</video>
+
 ------------------------------------------------------------
 
 ### Thank you!
