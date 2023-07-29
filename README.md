@@ -23,10 +23,7 @@ Also I'm confused how to create a .exe file as pyinstaller does not work for me 
 <img src="home.png" width="50%"/>
 
 ### Game Play:
-<video controls>
-    <source src="gameplay.mp4" type="video/mp4">
-    Your browser does not support the video tag
-</video>
+<img src="gameplay.gif"/>
 
 ------------------------------------------------------------
 
